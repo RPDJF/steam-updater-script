@@ -1,5 +1,5 @@
 # Edit this, cowboy
-$steamUsername = "Banatawa";
+$steamUsername = "";
 
 
 # Check if steamusername was set
