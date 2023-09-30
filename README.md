@@ -7,6 +7,7 @@ This script is designed to update your Steam games using SteamCMD. It automates 
 - Running this script will temporarily disrupt your connection to the Steam application until the next application restart.
 
 - This script is not fully automated and requires external scheduling tools like the Windows Task Scheduler for regular updates.
+- The script relies on the visibility settings of your Steam game library. To ensure proper functionality, make sure your Steam profile's privacy settings allow everyone to view your game library.
 
 ## Prerequisites
 
