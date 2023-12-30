@@ -11,7 +11,7 @@ if(!$steamUsername)
 }
 
 # Check if there is a login.xml file (please read readme.md)
-if(Test-Path "login.xml")
+if(!(Test-Path "login.xml"))
 { 
     Write-Host "Please create a clixml login.xml (read the readme.md)"
     pause
